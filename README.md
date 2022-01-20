@@ -30,3 +30,13 @@ Fields: [cat, cid, clnthostip, elaptimereal, errid, mbody, msg, msgid, oper, pro
 
 Note: This log source should be considered more of a sample or skeleton log source, since it is not technically considered fully production ready. For example, it may not cover every log pattern since we were working off a subset of data or may reference fields you would prefer not to use.
 
+Base Log Parser: Directory Proxy Server Access Log Format
+Log Source: Directory Proxy Server Access Logs
+Custom Fields:
+-	DPS Message (base parser)
+-	DPS Connection Handler (profile)
+-	DPS Operation Number (operation)
+-	DPS Operation Body
+-	DPS nentries (operation) 
+-	DPS s_msgid
+-	DPS s_conn
