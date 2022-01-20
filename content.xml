@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LoganContent xmlns="http://www.oracle.com/DataCenter/LogAnalyticsStd" content_version="1.47.0.0.0" name="content_4f1fd2492f7c6_1599591489766" oms_version="1.47.0.0.0">
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Search Base</DisplayName>
+      <Description>Base Value in Search Operation for Blackrock Directory Proxy Servers</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Server Port</DisplayName>
+      <Description>Port used by Server Connection for Directory Proxy Services (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Search Filter</DisplayName>
+      <Description>Filter Value in Search Operation for Blackrock Directory Proxy Servers</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Message</DisplayName>
+      <Description>Directory Proxy Server Message for Access Logs (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Search Attributes</DisplayName>
+      <Description>Attributes Value in Search Operation for Blackrock Directory Proxy Servers</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Bind DN</DisplayName>
+      <Description>DN Value in Bind Operation for Blackrock Directory Proxy Servers</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Connection Handler</DisplayName>
+      <Description>Connection Handler used by Directory Proxy Services (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Operation Number</DisplayName>
+      <Description>The number of an operation on a given connection. The first operation on a connection has the value op=0. Subsequent requests on the connection have increasing numbers, op=1, op=2, etc. Directory Proxy Services (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS s_msgid</DisplayName>
+      <Description>	
+Identifier for the message between the Directory Proxy Server and a data source (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS s_conn</DisplayName>
+      <Description>	
+Identifier for the connection between the Directory Proxy Server and the data source (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS Client Port</DisplayName>
+      <Description>Port used by Client Connection for Directory Proxy Services (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>STRING</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Field oms_version="1.47.0.0.0">
+      <DisplayName>DPS nentries</DisplayName>
+      <Description>The number of entries returned by a search request with Directory Proxy Services (Blackrock)</Description>
+      <FieldType>1</FieldType>
+      <IsSystem>0</IsSystem>
+      <IsPrimary>1</IsPrimary>
+      <DataType>INTEGER</DataType>
+      <IsMetricKeyEligible>0</IsMetricKeyEligible>
+      <IsMetricValueEligible>0</IsMetricValueEligible>
+      <FacetEligible>1</FacetEligible>
+      <RangeFacetEligible>0</RangeFacetEligible>
+      <TableEligible>1</TableEligible>
+      <FacetPriority>1</FacetPriority>
+      <Summarizable>1</Summarizable>
+      <HighCardinality>1</HighCardinality>
+      <LargeData>0</LargeData>
+      <MultiValued>0</MultiValued>
+      <SMAEnabledSetting>0</SMAEnabledSetting>
+   </Field>
+   <Parser oms_version="1.47.0.0.0" tokenize_orig_text="1" type="0">
+      <Name>Directory Proxy Server Access Log Format</Name>
+      <DisplayName>Directory Proxy Server Access Log Format</DisplayName>
+      <Description>Parser for Oracle Directory Proxy Server Access Logs for Blackrock Account</Description>
+      <ParserContent>\[{TIMEDATE}\]\s+-\s+([^\s]+)\s+-\s+([^\s]+)\s+-\s+(.*)</ParserContent>
+      <IsSingleLineContent>1</IsSingleLineContent>
+      <ExampleContent>[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - File has been rotated: /DPSlogs/logs/access.20200723-130001
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619284 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=4727 s_conn=ds_cotmuse2ldp011:197170 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619284 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 etime=1501
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619285 op=1 msgid=2 SEARCH base="o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 controls="" filter="(&amp;(objectclass=automountMap)(automountMapName=auto_local))" attrs="automountMapName "
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619285 op=1 SEARCH base="o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 filter="(&amp;(objectclass=automountMap)(automountMapName=auto_local))" attrs="automountMapName " s_msgid=781 s_conn=ds_cotmuse2ldp013:197348
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619283 op=2 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=1182 s_conn=ds_cotmuse2ldp012:197329 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619283 op=2 SEARCH RESPONSE err=0 msg="" nentries=1 etime=618
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619284 op=2 UNBIND
+[23/Jul/2020:13:00:01 -0400] - DISCONNECT - INFO  - conn=20619284 reason="unbind"
+[23/Jul/2020:13:00:01 -0400] - DISCONNECT - INFO  - conn=20619283 reason="protocol error" msg="StopTLS is not supported"
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619283 DISCONNECT
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619285 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=781 s_conn=ds_cotmuse2ldp013:197348 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619285 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 etime=808
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619285 op=2 msgid=3 SEARCH base="automountMapName=auto_local,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 controls="" filter="(&amp;(objectclass=automount)(|(automountKey=lib64)(automountKey=/)(automountKey=*)))" attrs="automountKey automountInformation "
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619285 op=2 SEARCH base="automountmapname=auto_local,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 filter="(&amp;(objectclass=automount)(|(automountKey=lib64)(automountKey=/)(automountKey=*)))" attrs="automountKey automountInformation " s_msgid=782 s_conn=ds_cotmuse2ldp013:197348
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619285 op=2 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=782 s_conn=ds_cotmuse2ldp013:197348 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619285 op=2 SEARCH RESPONSE err=0 msg="" nentries=1 etime=521
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619285 op=3 UNBIND
+[23/Jul/2020:13:00:01 -0400] - DISCONNECT - INFO  - conn=20619285 reason="unbind"
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20617621 op=91 msgid=92 SEARCH base="ou=People,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=1 controls="" filter="(&amp;(objectClass=posixAccount)(uidNumber=55))" attrs="loginShell cn gidNumber uidNumber objectClass homeDirectory gecos uid "
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20617621 op=91 SEARCH base="ou=people,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=1 filter="(&amp;(objectClass=posixAccount)(uidNumber=55))" attrs="loginShell cn gidNumber uidNumber objectClass homeDirectory gecos uid " s_msgid=224 s_conn=ds_cotmuse2ldp011:197382
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20617621 op=91 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=224 s_conn=ds_cotmuse2ldp011:197382 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20617621 op=91 SEARCH RESPONSE err=0 msg="" nentries=1 etime=1076
+[23/Jul/2020:13:00:01 -0400] - PROFILE    - INFO  - conn=20619286 assigned to connection handler cn=CONN_PPBLKCLDAZMUSE2_PSHCLOUD_CORE,cn=connection handlers,cn=config
+[23/Jul/2020:13:00:01 -0400] - PROFILE    - INFO  - conn=20619287 assigned to connection handler cn=CONN_PPBLKCLDAZMUSE2_PSHCLOUD_CORE,cn=connection handlers,cn=config
+[23/Jul/2020:13:00:01 -0400] - CONNECT    - INFO  - conn=20619286 client=10.240.245.133:36158 server=cotmuse2dps013:636 protocol=LDAPS
+[23/Jul/2020:13:00:01 -0400] - CONNECT    - INFO  - conn=20619287 client=10.240.247.137:47054 server=cotmuse2dps013:636 protocol=LDAPS
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619286 op=0 msgid=1 BIND dn="cn=proxyagent,ou=profile,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" method="SIMPLE" version=3 controls=""
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619286 op=0 BIND dn="cn=proxyagent,ou=profile,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" method="SIMPLE" version=3 s_msgid=26 s_conn=ds_cotmuse2ldp013:197424
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619286 op=0 BIND RESPONSE err=0 msg="" s_msgid=26 s_conn=ds_cotmuse2ldp013:197424 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619286 op=0 BIND RESPONSE err=0 msg="" etime=891
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619287 op=0 msgid=1 BIND dn="cn=proxyagent,ou=profile,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" method="SIMPLE" version=3 controls=""
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619287 op=0 BIND dn="cn=proxyagent,ou=profile,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" method="SIMPLE" version=3 s_msgid=137 s_conn=ds_cotmuse2ldp012:197407
+[23/Jul/2020:13:00:01 -0400] - PROFILE    - INFO  - conn=20619288 assigned to connection handler cn=CONN_PPBLKCLDAZMUSE2_PSHCLOUD_CORE,cn=connection handlers,cn=config
+[23/Jul/2020:13:00:01 -0400] - CONNECT    - INFO  - conn=20619288 client=10.240.244.85:58210 server=cotmuse2dps013:636 protocol=LDAPS
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619286 op=1 msgid=2 SEARCH base="o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 controls="" filter="(&amp;(objectclass=automountMap)(automountMapName=auto_local))" attrs="automountMapName "
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619286 op=1 SEARCH base="o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 filter="(&amp;(objectclass=automountMap)(automountMapName=auto_local))" attrs="automountMapName " s_msgid=187 s_conn=ds_cotmuse2ldp012:197409
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619287 op=0 BIND RESPONSE err=0 msg="" s_msgid=137 s_conn=ds_cotmuse2ldp012:197407 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619287 op=0 BIND RESPONSE err=0 msg="" etime=876
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619286 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=187 s_conn=ds_cotmuse2ldp012:197409 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619286 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 etime=894
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619287 op=1 msgid=2 SEARCH base="o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 controls="" filter="(&amp;(objectclass=automountMap)(automountMapName=auto_local))" attrs="automountMapName "
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619287 op=1 SEARCH base="o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 filter="(&amp;(objectclass=automountMap)(automountMapName=auto_local))" attrs="automountMapName " s_msgid=8534 s_conn=ds_cotmuse2ldp011:196867
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619286 op=2 msgid=3 SEARCH base="automountMapName=auto_local,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 controls="" filter="(&amp;(objectclass=automount)(|(automountKey=lib64)(automountKey=/)(automountKey=*)))" attrs="automountKey automountInformation "
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619286 op=2 SEARCH base="automountmapname=auto_local,o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 filter="(&amp;(objectclass=automount)(|(automountKey=lib64)(automountKey=/)(automountKey=*)))" attrs="automountKey automountInformation " s_msgid=188 s_conn=ds_cotmuse2ldp012:197409
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619287 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=8534 s_conn=ds_cotmuse2ldp011:196867 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619287 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 etime=852
+[23/Jul/2020:13:00:01 -0400] - SERVER_OP  - INFO  - conn=20619286 op=2 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=188 s_conn=ds_cotmuse2ldp012:197409 etime=0
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619286 op=2 SEARCH RESPONSE err=0 msg="" nentries=1 etime=662
+[23/Jul/2020:13:00:01 -0400] - DISCONNECT - INFO  - conn=20619286 reason="protocol error" msg="StopTLS is not supported"
+[23/Jul/2020:13:00:01 -0400] - OPERATION  - INFO  - conn=20619286 DISCONNECT</ExampleContent>
+      <IsSystem>0</IsSystem>
+      <Encoding>UTF-8</Encoding>
+      <Language>en_US</Language>
+      <ParserFields>
+         <ParserField>
+            <FieldSeq>1</FieldSeq>
+            <FieldName>cat</FieldName>
+         </ParserField>
+         <ParserField>
+            <FieldSeq>2</FieldSeq>
+            <FieldName>sevlvl</FieldName>
+         </ParserField>
+         <ParserField>
+            <FieldSeq>3</FieldSeq>
+            <FieldName>udfs11</FieldName>
+         </ParserField>
+      </ParserFields>
+      <WrittenOnce>0</WrittenOnce>
+      <IsDefaultParser>1</IsDefaultParser>
+      <InUse>1</InUse>
+   </Parser>
+   <Source configWarningSettings="0" name="Directory Proxy Server Access Logs V3" oms_version="1.47.0.0.0">
+      <SourceType>os_file</SourceType>
+      <TargetTypes>
+         <TargetType>omc_generic_host</TargetType>
+         <TargetType>omc_host_linux</TargetType>
+      </TargetTypes>
+      <DisplayName>Directory Proxy Server Access Logs V3</DisplayName>
+      <Description>DPS Access Logs for Blackrock - enhancing Search and Bind operations</Description>
+      <IsSystem>0</IsSystem>
+      <IsSecureContent>1</IsSecureContent>
+      <Patterns>
+         <Pattern>
+            <Value>access*</Value>
+            <IsInclude>1</IsInclude>
+            <InUse>1</InUse>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </Pattern>
+      </Patterns>
+      <Parsers>
+         <Parser>
+            <ParserSeq>1</ParserSeq>
+            <ParserName>Directory Proxy Server Access Log Format</ParserName>
+         </Parser>
+      </Parsers>
+      <ExtFieldDefinitions>
+         <Condition field="cat" operator="EQUAL">
+            <ConditionValues>
+               <ConditionValue>SERVER_OP</ConditionValue>
+            </ConditionValues>
+         </Condition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>conn=-1 op=-1 UNBIND s_msgid=106 s_conn=ds_cotmuse2ldp013:197374</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?} op={udfs13:\S+?} {oper:[A-Z]+?}( base="{udfs31:.+?}" .+? filter="{udfs32:.+?}" attrs="{udfs33:.+?}")?( dn="{udfs34:.+?}" .+?)? s_msgid={udfs16:\S*?} s_conn={udfs18:\S*}$</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>udfs34</ExtFieldName>
+            <ExtFieldName>udfs33</ExtFieldName>
+            <ExtFieldName>udfs32</ExtFieldName>
+            <ExtFieldName>udfs31</ExtFieldName>
+            <ExtFieldName>udfs18</ExtFieldName>
+            <ExtFieldName>udfs16</ExtFieldName>
+            <ExtFieldName>udfs13</ExtFieldName>
+            <ExtFieldName>oper</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>Closing connection for BIND  s_conn=ds_cotmuse2ldp013:197427 client=0.0.0.0:37830 server=cotmuse2ldp013.core.blackrock.com:389 protocol=LDAP details=Unused</BaseFieldLogText>
+            <RegexExpression>{oper:.+} s_conn={udfs18:\S+?} client={clnthostip:\S*?}:{udfs19:\S*?} server={srvrhostname:\S*?}:{udfs20:\S*?} protocol={prot:\S+}</RegexExpression>
+            <ExtFieldName>clnthostip</ExtFieldName>
+            <ExtFieldName>udfs20</ExtFieldName>
+            <ExtFieldName>udfs19</ExtFieldName>
+            <ExtFieldName>udfs18</ExtFieldName>
+            <ExtFieldName>srvrhostname</ExtFieldName>
+            <ExtFieldName>prot</ExtFieldName>
+            <ExtFieldName>oper</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>[23/Jul/2020:13:05:30 -0400] - SERVER_OP  - INFO  - conn=20620937 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 s_msgid=4801 s_conn=ds_cotmuse2ldp011:197170 etime=0</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?} op={udfs13:\S+?} {oper:(.+?)(\s)(.+?)} err={errid:\d+?} msg="{msg:.*}"( nentries={udfi4:\d*?})? s_msgid={udfs16:\S+?} s_conn={udfs18:\S+?} etime={elaptimereal:\d*}$</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>elaptimereal</ExtFieldName>
+            <ExtFieldName>errid</ExtFieldName>
+            <ExtFieldName>msg</ExtFieldName>
+            <ExtFieldName>oper</ExtFieldName>
+            <ExtFieldName>udfi4</ExtFieldName>
+            <ExtFieldName>udfs13</ExtFieldName>
+            <ExtFieldName>udfs16</ExtFieldName>
+            <ExtFieldName>udfs18</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+      </ExtFieldDefinitions>
+      <ExtFieldDefinitions>
+         <Condition field="cat" operator="EQUAL">
+            <ConditionValues>
+               <ConditionValue>DISCONNECT</ConditionValue>
+            </ConditionValues>
+         </Condition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>conn=20619342 reason="protocol error" msg="StopTLS is not supported"</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?} reason="{reas:.+?}"( msg="{msg:.*}")?</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>reas</ExtFieldName>
+            <ExtFieldName>msg</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+      </ExtFieldDefinitions>
+      <ExtFieldDefinitions>
+         <Condition field="cat" operator="EQUAL">
+            <ConditionValues>
+               <ConditionValue>PROFILE</ConditionValue>
+            </ConditionValues>
+         </Condition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>conn=20619371 assigned to connection handler cn=CONN_PPBLKCLDAZMUSE2_PSHCLOUD_CORE,cn=connection handlers,cn=config</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?} assigned to connection handler cn={udfs12:.+?},cn=connection handlers,cn=config</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>udfs12</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+      </ExtFieldDefinitions>
+      <ExtFieldDefinitions>
+         <Condition field="cat" operator="EQUAL">
+            <ConditionValues>
+               <ConditionValue>OPERATION</ConditionValue>
+            </ConditionValues>
+         </Condition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>conn=20620937 op=1 SEARCH RESPONSE err=0 msg="" nentries=1 etime=794</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?} op={udfs13:\S+?} {oper:(.+?)(\s)(.+?)} err={errid:\d+?} msg="{msg:.*}"( nentries={udfi4:\d*?})? etime={elaptimereal:\d*}$</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>udfs13</ExtFieldName>
+            <ExtFieldName>udfi4</ExtFieldName>
+            <ExtFieldName>oper</ExtFieldName>
+            <ExtFieldName>msg</ExtFieldName>
+            <ExtFieldName>errid</ExtFieldName>
+            <ExtFieldName>elaptimereal</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>conn=20619285 op=1 msgid=2 SEARCH base="o=pshcloud.blackrock.com,dc=ppblkcldaz,dc=com" scope=2 controls="" filter="(&amp;(objectclass=automountMap)(automountMapName=auto_local))" attrs="automountMapName "</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?} op={udfs13:\S+?} msgid={msgid:\S+?} {oper:[A-Z]+?} (base="{udfs31:.+?}" .+? filter="{udfs32:.+?}" attrs="{udfs33:.+?}")?(dn="{udfs34:.+?}")?</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>udfs34</ExtFieldName>
+            <ExtFieldName>udfs33</ExtFieldName>
+            <ExtFieldName>udfs32</ExtFieldName>
+            <ExtFieldName>udfs31</ExtFieldName>
+            <ExtFieldName>udfs13</ExtFieldName>
+            <ExtFieldName>oper</ExtFieldName>
+            <ExtFieldName>msgid</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>conn=20619284 op=2 UNBIND</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?}( op={udfs13:\S+?})? {oper:[A-Z]+?}$</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>udfs13</ExtFieldName>
+            <ExtFieldName>oper</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+      </ExtFieldDefinitions>
+      <ExtFieldDefinitions>
+         <Condition field="cat" operator="EQUAL">
+            <ConditionValues>
+               <ConditionValue>CONNECT</ConditionValue>
+            </ConditionValues>
+         </Condition>
+         <ExtFieldDefinition>
+            <BaseFieldName>udfs11</BaseFieldName>
+            <BaseFieldLogText>conn=20619304 client=10.240.245.135:58584 server=cotmuse2dps013:636 protocol=LDAPS</BaseFieldLogText>
+            <RegexExpression>conn={cid:\S+?} client={clnthostip:\S*?}:{udfs19:\S*?} server={srvrhostname:\S*?}:{udfs20:\S*?} protocol={prot:.*}</RegexExpression>
+            <ExtFieldName>cid</ExtFieldName>
+            <ExtFieldName>clnthostip</ExtFieldName>
+            <ExtFieldName>prot</ExtFieldName>
+            <ExtFieldName>srvrhostname</ExtFieldName>
+            <ExtFieldName>udfs19</ExtFieldName>
+            <ExtFieldName>udfs20</ExtFieldName>
+            <IsSystem>0</IsSystem>
+            <IsEnabled>1</IsEnabled>
+         </ExtFieldDefinition>
+      </ExtFieldDefinitions>
+      <AutoAssociated>0</AutoAssociated>
+      <IsHidden>0</IsHidden>
+      <IsSMAEnabled>0</IsSMAEnabled>
+   </Source>
+   <FieldNameMaps>
+      <FieldNameMap>
+         <Name>udfs31</Name>
+         <DisplayName>DPS Search Base</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs20</Name>
+         <DisplayName>DPS Server Port</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs32</Name>
+         <DisplayName>DPS Search Filter</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs11</Name>
+         <DisplayName>DPS Message</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs33</Name>
+         <DisplayName>DPS Search Attributes</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs34</Name>
+         <DisplayName>DPS Bind DN</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs12</Name>
+         <DisplayName>DPS Connection Handler</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs13</Name>
+         <DisplayName>DPS Operation Number</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs16</Name>
+         <DisplayName>DPS s_msgid</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs18</Name>
+         <DisplayName>DPS s_conn</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfs19</Name>
+         <DisplayName>DPS Client Port</DisplayName>
+      </FieldNameMap>
+      <FieldNameMap>
+         <Name>udfi4</Name>
+         <DisplayName>DPS nentries</DisplayName>
+      </FieldNameMap>
+   </FieldNameMaps>
+</LoganContent>
